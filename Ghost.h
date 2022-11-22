@@ -1,6 +1,4 @@
-//
-// Created by teekay on 04/01/17.
-//
+
 
 #ifndef COURSEWORK_GHOST_H
 #define COURSEWORK_GHOST_H

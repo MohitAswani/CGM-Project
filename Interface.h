@@ -1,6 +1,3 @@
-//
-// Created by teekay on 05/01/17.
-//
 
 #ifndef COURSEWORK_INTERFACE_H
 #define COURSEWORK_INTERFACE_H

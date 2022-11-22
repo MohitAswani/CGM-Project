@@ -1,6 +1,3 @@
-//
-// Created by teekay on 03/01/17.
-//
 
 #ifndef COURSEWORK_PACMAN_H
 #define COURSEWORK_PACMAN_H
