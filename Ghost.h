@@ -65,9 +65,6 @@ public:
     void drawEatScore(float x, float y)
     {
         glPushMatrix();
-
-
-
         unsigned int eat_score_tex;
 
         switch(eatenCount) { // Pick which texture to draw depending on which number ghost is beign eaten
